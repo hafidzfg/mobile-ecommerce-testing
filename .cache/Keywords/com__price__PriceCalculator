@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "31A1DE00576B96783F2F1BA50B998116",
+  "keywordClasses": [
+    {
+      "name": "com.price.PriceCalculator",
+      "keywordMethods": [
+        {
+          "name": "getPrice",
+          "parameters": [
+            {
+              "name": "price",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
