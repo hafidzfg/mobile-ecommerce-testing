@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 101_Order a product (Samsung Galaxy S10) - Correct Quantity (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca776dfc-d528-45b3-89e6-9a7fab41e188</testCaseGuid>
+</TestCaseEntity>
