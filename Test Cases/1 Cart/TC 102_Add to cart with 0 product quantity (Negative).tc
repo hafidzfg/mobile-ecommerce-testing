@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 102_Add to cart with 0 product quantity (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb8c4cec-db6c-42b8-9821-060477d2da2b</testCaseGuid>
+</TestCaseEntity>
