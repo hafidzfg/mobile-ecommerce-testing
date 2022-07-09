@@ -29,4 +29,24 @@
       <initValue>''</initValue>
       <name>productStock</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mitsuha'</initValue>
+      <name>profileName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'your.email@nhk.jp'</initValue>
+      <name>profileEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Gunung Kidul'</initValue>
+      <name>profileAddress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'+6280987654321'</initValue>
+      <name>profilePhoneNumber</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
