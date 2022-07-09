@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 301_Edit Profile with Valid Details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb3105a5-b8a3-4b49-ba55-16f61f444582</testCaseGuid>
+</TestCaseEntity>
