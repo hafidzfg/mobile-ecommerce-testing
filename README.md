@@ -1,6 +1,6 @@
 # Assignment 3: Mobile Automation Testing Ecommerce App
 
-Repository ini berisi project automation testing sebuah [mock ecommerce app](./APK/ECommerce -Sample-Android.apk) menggunakan katalon.
+Repository ini berisi project automation testing sebuah [mock ecommerce app](/APK/ECommerce -Sample-Android.apk) menggunakan katalon.
 
 Untuk menjalankan project, import terlebih dahulu repository ini ke dalam Katalon kamu.
 
