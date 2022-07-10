@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.EditText - 4 Samsung Galaxy S10 - Black 3.596 USD,Order  3.596 USDTax  10   360 USDTotal  3.956 USD</name>
+   <name>button_YES</name>
    <tag></tag>
-   <elementGuidId>3b9732da-33e6-4bad-b6e6-78b661c2346d</elementGuidId>
+   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,36 +11,32 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.EditText</value>
-      <webElementGuid>7f828109-ed37-4c1c-9df1-955af6440e81</webElementGuid>
+      <value>android.widget.Button</value>
+      <webElementGuid>d5e2df54-30cf-4926-9b40-d7e5e6ad5cca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>d83cee57-fffe-43d6-a0ca-50816a3ae245</webElementGuid>
+      <value>1</value>
+      <webElementGuid>11818e09-f85f-4e3c-9ddf-c99516308f12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>4 Samsung Galaxy S10 - Black 3.596 USD,
-
-Order : 3.596 USD
-Tax : 10 % : 360 USD
-Total : 3.956 USD</value>
-      <webElementGuid>9785cfe7-4297-41f9-afbd-6cb84d2c2d3d</webElementGuid>
+      <value>YES</value>
+      <webElementGuid>fdc43225-22c3-43a5-a6df-bbce8cde1c36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.solodroid.solomerce:id/edt_order_list</value>
-      <webElementGuid>7b91f679-57cc-4ec8-bf80-f5531064f469</webElementGuid>
+      <value>android:id/button1</value>
+      <webElementGuid>79c1619a-a11c-4327-8726-bbc950a7bb1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +44,7 @@ Total : 3.956 USD</value>
       <name>package</name>
       <type>Main</type>
       <value>com.solodroid.solomerce</value>
-      <webElementGuid>63268619-5297-4a26-8680-412098c21563</webElementGuid>
+      <webElementGuid>84c31eee-6f90-4e7f-8fa9-998f8ac0827d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +52,7 @@ Total : 3.956 USD</value>
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>047cb68c-dbbd-445e-8472-e0e61af91f22</webElementGuid>
+      <webElementGuid>366473fe-b9e2-48ae-b964-f83c1359faa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +60,7 @@ Total : 3.956 USD</value>
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f88fc74c-2e58-46be-ae69-fc456d124a39</webElementGuid>
+      <webElementGuid>67795dea-95a8-4db7-a617-b04220bed898</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,15 +68,15 @@ Total : 3.956 USD</value>
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d4a3864d-2678-4671-ab12-c5228def8537</webElementGuid>
+      <webElementGuid>878044f8-4e7b-4bc8-ad75-507781687f48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>enabled</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>e56946c3-7753-45f0-bb98-9b99eeafe279</webElementGuid>
+      <value>true</value>
+      <webElementGuid>dbce2caa-8c83-4861-a7c6-eb2a6567ab80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -88,7 +84,7 @@ Total : 3.956 USD</value>
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ee62b2cd-9b39-484b-9cf9-8f605bd9ec74</webElementGuid>
+      <webElementGuid>a42000cc-5a51-48aa-a051-46f020a5b272</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -96,7 +92,7 @@ Total : 3.956 USD</value>
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0b4701ea-dae8-41ca-a247-607d5b0ec4fa</webElementGuid>
+      <webElementGuid>2f172bfc-ae09-4963-aeea-392d87780dcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -104,15 +100,15 @@ Total : 3.956 USD</value>
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8077aa82-0582-4eeb-8b39-1b22907f3129</webElementGuid>
+      <webElementGuid>a1b75194-0572-4555-820d-e8184ad2bc8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>long-clickable</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>7e02a422-edd1-4313-b056-d32bf90617a5</webElementGuid>
+      <value>false</value>
+      <webElementGuid>7b2dba1d-93b4-495e-ae22-d0b546b6e075</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -120,7 +116,7 @@ Total : 3.956 USD</value>
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6f6bfd97-5d66-45b1-9a88-bc67b67174f2</webElementGuid>
+      <webElementGuid>0bdfe831-2b30-4cce-8b63-0c6e326b1e4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -128,47 +124,47 @@ Total : 3.956 USD</value>
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b18c2f66-18bf-490b-8b7f-e23f3cdee62d</webElementGuid>
+      <webElementGuid>2c677dd9-db67-475e-a6e4-8a19722edf6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>48</value>
-      <webElementGuid>66173de6-4eb0-4cc3-8171-d356e5a4df39</webElementGuid>
+      <value>1019</value>
+      <webElementGuid>7cccd48f-8050-49e0-8cb0-047373913da9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1444</value>
-      <webElementGuid>3bdac8ba-9a86-4fff-8674-deabe102f5bb</webElementGuid>
+      <value>1514</value>
+      <webElementGuid>6ac3fb2f-887f-4b48-a644-7ac987b6f864</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>1344</value>
-      <webElementGuid>b517abd2-ee31-4402-a78a-565791def11b</webElementGuid>
+      <value>192</value>
+      <webElementGuid>463a3bbd-4fcb-43a4-a374-8c757f2f0f5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>385</value>
-      <webElementGuid>4f47c7a1-fafb-4f1a-a17a-ecda0b56d4b7</webElementGuid>
+      <value>162</value>
+      <webElementGuid>b4225414-4eeb-4bdf-b0b2-b9c6a313c8b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[48,1444][1392,1829]</value>
-      <webElementGuid>387df97c-7f9d-48b4-89b8-0bef3080e753</webElementGuid>
+      <value>[1019,1514][1211,1676]</value>
+      <webElementGuid>75ca5b9e-35ee-47c0-bc33-910d528449ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -176,16 +172,16 @@ Total : 3.956 USD</value>
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c31ba124-f0b1-4c72-9f58-b7dd2b1162ef</webElementGuid>
+      <webElementGuid>3d1b171a-7fcc-4968-87fe-0c2368677259</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[6]/android.widget.FrameLayout[1]/android.widget.EditText[1]</value>
-      <webElementGuid>ab579fe7-3533-415a-8726-78a12c35e7f4</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.Button[2]</value>
+      <webElementGuid>4c2cf366-85d6-4ab1-84a2-cd5ea687dfaa</webElementGuid>
    </webElementProperties>
-   <locator>com.solodroid.solomerce:id/edt_order_list</locator>
-   <locatorStrategy>ID</locatorStrategy>
+   <locator>//*[@class = 'android.widget.Button' and (@text = 'YES' or . = 'YES') and @resource-id = 'android:id/button1']</locator>
+   <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>
