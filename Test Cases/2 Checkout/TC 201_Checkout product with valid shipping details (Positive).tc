@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 201_Checkout product with valid shipping details (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9bf14ad-9c6f-47d7-8f75-cc8963369832</testCaseGuid>
+</TestCaseEntity>
