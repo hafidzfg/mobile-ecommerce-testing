@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 101_Add to cart with valid product quantity (Negative)</name>
+   <name>TC 101_Add to cart with valid product quantity (Positive)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>1fff4c35-cfb7-4040-9520-24d10295783d</testCaseGuid>
