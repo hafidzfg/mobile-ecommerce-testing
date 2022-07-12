@@ -39,7 +39,7 @@ Mobile.tap(findTestObject('Product Page/Number of Order/button_ADD'), 0)
 
 Mobile.tap(findTestObject('Product Page/button_Shopping Cart'), 0)
 
-Mobile.verifyElementExist(findTestObject('Shopping Cart/TextView_Shopping Cart_Samsung Galaxy S10 - Black'), 30)
+Mobile.verifyElementExist(findTestObject('Shopping Cart/text_ProductName_1st Product'), 30)
 
 Mobile.verifyElementText(findTestObject('Shopping Cart/text_Price x Qty'), (GlobalVariable.productPrice + ' x ') + '5')
 

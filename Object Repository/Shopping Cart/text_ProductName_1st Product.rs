@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>TextView_Shopping Cart_Samsung Galaxy S10 - Black</name>
+   <name>text_ProductName_1st Product</name>
    <tag></tag>
    <elementGuidId>89dd1a1e-ba0a-41d0-80e2-03274a45c399</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
