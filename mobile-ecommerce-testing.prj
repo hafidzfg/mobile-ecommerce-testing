@@ -6,6 +6,7 @@
    <UUID>a363a9fd-ea08-4331-9791-e643e82ea9c6</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\btdp\bootcamp\katalon\mobile-ecommerce-testing\mobile-ecommerce-testing.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
