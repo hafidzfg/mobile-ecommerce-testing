@@ -5,6 +5,14 @@ Repository ini berisi project automation testing sebuah [mock ecommerce app](/AP
 ## Requirements
 1. Katalon Studio
 2. Java 1.8
+3. Appium
+
+## Test Environment
+- Katalon Studio 8.3.5 (Groovy)
+- Java 1.8
+- Appium 1.22.3
+- (Emulated) Samsung Galaxy S8/Android 7.0
+- Windows 11
 
 ## Test Cases
 Terdapat 4 kategori test cases yang dibuat, yang berfokus terhadap beberapa fungsionalitas:
@@ -14,13 +22,6 @@ Terdapat 4 kategori test cases yang dibuat, yang berfokus terhadap beberapa fung
 3. Profile <br>
 
 Untuk detail mengenai tiap test case, silakan cek [Test Scenario](TestScenario_Assignment3.xlsx)
-
-## Test Environment
-Repository ini dibuat dengan environment:
-- Katalon Studio 8.3.5 (Groovy)
-- Java 1.8
-- Emulated Samsung Galaxy S8 (Android 7) on Genymotion
-- Windows 11
 
 ## Concepts implemented
 - Mobile UI Testing
