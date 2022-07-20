@@ -23,9 +23,9 @@ Mobile.tap(findTestObject('Profile Page/button_Profile'), 5)
 
 Mobile.verifyElementVisible(findTestObject('Profile Page/frame_Your Profile Details'), 20)
 
-Mobile.tap(findTestObject('Profile Page/button_Share'), 15)
+Mobile.tap(findTestObject('Profile Page/button_Rate Us'), 15)
 
-Mobile.verifyElementVisible(findTestObject('Profile Page/Redirect/androidMenu_Share with Menu'), 20)
+Mobile.verifyElementVisible(findTestObject('Profile Page/Redirect/text_GooglePlay_Solodroid  E-CommerceApp Demo'), 20)
 
 Mobile.pressBack()
 
