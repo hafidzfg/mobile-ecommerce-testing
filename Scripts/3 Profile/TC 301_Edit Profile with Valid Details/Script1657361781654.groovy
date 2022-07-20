@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\btdp\\bootcamp\\katalon\\mobile-ecommerce-testing\\APK\\ECommerce -SAMPLE-Android.apk', true)
+Mobile.startApplication('APK/ECommerce -SAMPLE-Android.apk', true)
 
 Mobile.tap(findTestObject('Profile Page/button_Profile'), 5)
 

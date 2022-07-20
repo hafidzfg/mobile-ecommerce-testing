@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\btdp\\bootcamp\\katalon\\mobile-ecommerce-testing\\APK\\ECommerce -SAMPLE-Android.apk', true)
+Mobile.startApplication('APK/ECommerce -SAMPLE-Android.apk', true)
 
 Mobile.getText(findTestObject('Object Repository/Product Page/text_ProductName_Apple watch series 3 GPS 42mm Black'), 0)
 
@@ -60,4 +60,6 @@ Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 Mobile.tap(findTestObject('Checkout Page/button_PROCESS CHECKOUT'), 0)
 
 Mobile.verifyElementNotVisible(findTestObject('Checkout Page/text_formheading_Process Checkout'), 5)
+
+Mobile.closeApplication()
 
